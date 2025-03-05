@@ -1,0 +1,687 @@
+MEAN STD
+
+
+Milk, reduced fat
+     Water (g): 0.9978620233007625
+     Energy (kcal): 0.9695718497042618
+     Sodium (mg): 0.820699219506339
+Milk, whole
+     Water (g): 0.9021911986006778
+     Energy (kcal): 0.8187420402508694
+     Calcium (mg): 0.8017002155177957
+Milk, lowfat
+     Water (g): 1.096132194644943
+     Energy (kcal): 1.0745702183095895
+     Sodium (mg): 0.8759162161194043
+Milk, nonfat
+     Energy (kcal): 1.0852878600789377
+     Water (g): 1.0660495790926694
+     Sodium (mg): 0.807467213305695
+Flavored milk, whole
+     Sugars, total (g): 1.1556935990586816
+     Sodium (mg): 0.7905596498270946
+     Calcium (mg): 0.702774418661605
+Plant-based milk
+     SFA 12:0 (g): 1.048025711323239
+     Water (g): 0.9636201916255822
+     SFA 8:0 (g): 0.9243731000021735
+Yogurt, regular
+     Energy (kcal): 0.8449476804650828
+     Sodium (mg): 0.8322926091773293
+     Water (g): 0.8171786440150018
+Yogurt, Greek
+     Sodium (mg): 0.885971393516173
+     Energy (kcal): 0.7751345145761944
+     Water (g): 0.7393182899299026
+Dips, gravies, other sauces
+     SFA 6:0 (g): 1.2673159386820834
+     SFA 4:0 (g): 0.9820673867577485
+     Sodium (mg): 0.9425297649453764
+Ice cream and frozen dairy desserts
+     SFA 4:0 (g): 1.3647577612293607
+     SFA 6:0 (g): 1.2764842374556375
+     Sugars, total (g): 1.183747036202056
+Baby food: mixtures
+     Sodium (mg): 0.9377390866201599
+     Energy (kcal): 0.9118892217932002
+     Water (g): 0.8710188770574524
+Baby food: yogurt
+     Sodium (mg): 0.8674266818766857
+     Water (g): 0.8558827097125417
+     Energy (kcal): 0.7799309519974336
+Flavored milk, lowfat
+     Energy (kcal): 0.9460499328853803
+     Water (g): 0.9386392060006706
+     Sodium (mg): 0.834812766878965
+Flavored milk, reduced fat
+     Energy (kcal): 0.8638956818161311
+     Water (g): 0.8576828118930597
+     Sodium (mg): 0.8091500645610513
+Flavored milk, nonfat
+     Energy (kcal): 0.9767055665665183
+     Water (g): 0.9288302500069112
+     Total Fat (g): 0.7819004462113944
+Milk shakes and other dairy drinks
+     Sodium (mg): 0.8099413403089413
+     SFA 6:0 (g): 0.8057682705343513
+     SFA 4:0 (g): 0.7728153011042532
+Smoothies and grain drinks
+     Sodium (mg): 0.9207675995427473
+     Energy (kcal): 0.9147626398166904
+     Water (g): 0.8796236971342876
+Formula, prepared from powder
+     SFA 8:0 (g): 1.3306848646948617
+     Water (g): 1.0467478422257763
+     Energy (kcal): 0.9413634234939727
+Formula, ready-to-feed
+     SFA 8:0 (g): 2.1111373582459967
+     Water (g): 1.026631845011473
+     SFA 10:0 (g): 0.952142811305148
+Not included in a food category
+     Potassium (mg): 1.8587916092547034
+     Caffeine (mg): 1.4851018701459737
+     Vitamin C (mg): 1.3782464243425823
+Cream and cream substitutes
+     SFA 10:0 (g): 1.3635312687510137
+     SFA 12:0 (g): 1.279147855845445
+     SFA 14:0 (g): 1.2788715877528498
+Cream cheese, sour cream, whipped cream
+     SFA 14:0 (g): 3.305814964613913
+     SFA 10:0 (g): 2.8935876936547413
+     SFA 12:0 (g): 2.3908012610896257
+Pudding
+     Sugars, total (g): 1.0712135626517172
+     Niacin (mg): 0.6321005585545663
+     Fiber, total dietary (g): 0.5918557238816241
+Cakes and pies
+     Sugars, total (g): 1.6810463282412524
+     Carbohydrate (g): 1.0912450872063748
+     Water (g): 0.8849948148389285
+Cheese
+     Calcium (mg): 5.544289512258329
+     SFA 4:0 (g): 4.732962769722295
+     SFA 6:0 (g): 3.965215391175368
+Cottage/ricotta cheese
+     Carbohydrate (g): 0.7120101502493998
+     Water (g): 0.6982048144899777
+     Energy (kcal): 0.6804715048252303
+Pizza
+     Lycopene (mcg): 1.1843015154097525
+     Calcium (mg): 1.0108147270379353
+     SFA 6:0 (g): 0.6605322487400931
+Eggs and omelets
+     Choline, total (mg): 3.581346033762198
+     Cholesterol (mg): 3.413853595638473
+     Vitamin D (D2 + D3) (mcg): 1.1291100841118504
+Cheese sandwiches
+     Calcium (mg): 2.9611350754777055
+     SFA 6:0 (g): 2.3271852080764566
+     SFA 4:0 (g): 1.9606203295431341
+Coleslaw, non-lettuce salads
+     Carotene, alpha (mcg): 1.2170029128309727
+     Carotene, beta (mcg): 0.8097903355577466
+     Protein (g): 0.7844991057608509
+Beef, excludes ground
+     Protein (g): 2.3572962593401536
+     Zinc (mg): 1.9394295877187455
+     Vitamin B-6 (mg): 1.5031483091313413
+Ground beef
+     Protein (g): 2.055800727522746
+     Zinc (mg): 1.8015269727191772
+     MUFA 16:1 (g): 1.5913866683229472
+Baby food: meat and dinners
+     PUFA 20:4 (g): 0.8267388919795051
+     Water (g): 0.7371553301947577
+     Energy (kcal): 0.6695100329007291
+Cold cuts and cured meats
+     Sodium (mg): 2.635438305714697
+     MUFA 16:1 (g): 1.4299268264028848
+     Protein (g): 1.3469051121384088
+Bacon
+     Sodium (mg): 3.196005334344889
+     PUFA 20:4 (g): 3.121047171726413
+     Protein (g): 2.9562491365819645
+Pork
+     Protein (g): 2.3328735451781557
+     PUFA 20:4 (g): 1.8575952306034402
+     Choline, total (mg): 1.1287426825825038
+Meat mixed dishes
+     Lycopene (mcg): 0.6152626699134
+     Carbohydrate (g): 0.5478719636952345
+     Sugars, total (g): 0.4538852454858696
+Butter and animal fats
+     SFA 6:0 (g): 10.336894944071616
+     SFA 4:0 (g): 9.762510007433379
+     SFA 16:0 (g): 9.027916560906569
+Lamb, goat, game
+     PUFA 20:4 (g): 2.797928799069657
+     Protein (g): 2.642041937225958
+     Vitamin B-12 (mcg): 1.985231070978246
+Turkey, duck, other poultry
+     Protein (g): 2.2583033906701675
+     PUFA 20:4 (g): 2.256249399817083
+     Niacin (mg): 1.5370773523833956
+Chicken, whole pieces
+     Protein (g): 1.9748280719733373
+     MUFA 16:1 (g): 1.6857237858096021
+     PUFA 20:4 (g): 1.6398913898718521
+Chicken patties, nuggets and tenders
+     Niacin (mg): 1.1539820408696513
+     Protein (g): 1.088934343690365
+     PUFA 18:2 (g): 0.8748027452722681
+Liver and organ meats
+     Vitamin B-12 (mcg): 6.961916990301683
+     Cholesterol (mg): 6.105273069675194
+     PUFA 20:4 (g): 5.492309673596883
+Frankfurters
+     MUFA 16:1 (g): 2.4733109462337404
+     SFA 18:0 (g): 1.8161276000852997
+     SFA 16:0 (g): 1.6557191630640253
+Sausages
+     MUFA 16:1 (g): 2.3873586907738473
+     SFA 18:0 (g): 1.9861122061677734
+     PUFA 20:4 (g): 1.952345689231818
+Fish
+     PUFA 22:6 n-3 (g): 4.245708702806549
+     PUFA 22:5 n-3 (g): 4.143637178809675
+     Vitamin D (D2 + D3) (mcg): 3.7849845852270128
+Shellfish
+     Zinc (mg): 3.0135843579190245
+     Vitamin B-12 (mcg): 2.4208309365350247
+     Copper (mg): 1.9343688482661143
+Stir-fry and soy-based sauce mixtures
+     Carbohydrate (g): 0.6165666750559179
+     Water (g): 0.43863478200072664
+     Choline, total (mg): 0.3758013849882661
+Poultry mixed dishes
+     Carbohydrate (g): 0.5479816935262359
+     Water (g): 0.4558694335071448
+     Sugars, total (g): 0.4487097302383109
+Pasta sauces, tomato-based
+     Lycopene (mcg): 7.659357908878579
+     Water (g): 0.9755955998127819
+     Energy (kcal): 0.95677976619799
+Seafood mixed dishes
+     PUFA 22:6 n-3 (g): 0.6992025315625318
+     Carbohydrate (g): 0.6430256529829123
+     PUFA 20:5 n-3 (g): 0.6274662327190406
+Soy-based condiments
+     Sodium (mg): 8.34713583652328
+     Magnesium (mg): 0.8712910548875203
+     Fatty acids, total saturated (g): 0.472111647382095
+Rice mixed dishes
+     Protein (g): 0.6293624390800091
+     SFA 16:0 (g): 0.543729455158826
+     Total Fat (g): 0.5425693732354301
+Fried rice and lo/chow mein
+     SFA 16:0 (g): 0.5558557539645538
+     Energy (kcal): 0.5271697397543281
+     Total Fat (g): 0.4990496943042017
+Burritos and tacos
+     Sugars, total (g): 0.4478160753725432
+     Phosphorus (mg): 0.43213702337265664
+     Protein (g): 0.36528537056611227
+Other dark green vegetables
+     Vitamin K (phylloquinone) (mcg): 6.8538582669868235
+     Lutein + zeaxanthin (mcg): 6.47209142301343
+     Carotene, beta (mcg): 3.6907944727065654
+Deli and cured meat sandwiches
+     Sodium (mg): 1.248455106867469
+     Calcium (mg): 0.7459475106509499
+     Protein (g): 0.7397863900967822
+Meat and BBQ sandwiches
+     Protein (g): 0.9407181034323523
+     Lycopene (mcg): 0.6240168620102898
+     Zinc (mg): 0.563356361150731
+Burgers
+     Protein (g): 1.2081877827606768
+     SFA 18:0 (g): 1.0684796787242932
+     MUFA 16:1 (g): 1.006607276440951
+Chicken fillet sandwiches
+     Protein (g): 0.9808981058487152
+     Niacin (mg): 0.9171424850164003
+     Phosphorus (mg): 0.585821756100402
+Seafood sandwiches
+     PUFA 22:6 n-3 (g): 0.790116511190675
+     PUFA 20:5 n-3 (g): 0.7161828515906554
+     Protein (g): 0.693849347120292
+Frankfurter sandwiches
+     MUFA 16:1 (g): 1.196916080137643
+     Sodium (mg): 0.8756625702077244
+     SFA 18:0 (g): 0.8516483569152327
+Soups, broth-based
+     Water (g): 1.046729773361996
+     Energy (kcal): 1.035221936257001
+     Total Fat (g): 0.6861590919033761
+Ramen and Asian broth-based soups
+     Water (g): 0.858189439495636
+     Energy (kcal): 0.8431750779734362
+     Potassium (mg): 0.6816056378768385
+Soups, cream-based
+     Water (g): 0.8835843009150633
+     Energy (kcal): 0.7939428102616634
+     Carotene, alpha (mcg): 0.7218080824913121
+Egg/breakfast sandwiches
+     Choline, total (mg): 1.3344386574235416
+     Cholesterol (mg): 1.3198524365689195
+     SFA 16:0 (g): 0.8353404233046996
+Beans, peas, legumes
+     Fiber, total dietary (g): 2.279086482014386
+     Folate, food (mcg): 1.8083316273405774
+     Potassium (mg): 0.948566944213768
+Bean, pea, legume dishes
+     Folate, food (mcg): 1.0600907556496069
+     Fiber, total dietary (g): 1.0062253725310395
+     Folate, total (mcg): 0.5907422567067331
+Tortilla, corn, other chips
+     Water (g): 2.1692118338385282
+     Carbohydrate (g): 2.0996246879018647
+     Energy (kcal): 1.9985105984750429
+Vegetable dishes
+     Lutein + zeaxanthin (mcg): 0.9301618952197837
+     Water (g): 0.6925184739029417
+     Vitamin K (phylloquinone) (mcg): 0.6868096741629448
+Soy and meat-alternative products
+     Vitamin B-12, added (mcg): 2.950578538617411
+     Thiamin (mg): 2.069286576902224
+     Copper (mg): 1.1727302525182368
+Plant-based yogurt
+     Sodium (mg): 0.8719963439803778
+     SFA 12:0 (g): 0.7584873885522486
+     Vitamin B-12, added (mcg): 0.7137597504177711
+Mustard and other condiments
+     Thiamin (mg): 1.7338244519115318
+     Folic acid (mcg): 1.682620832865085
+     Riboflavin (mg): 1.6090216040517153
+Vegetable sandwiches/burgers
+     Calcium (mg): 0.6988251181256219
+     Thiamin (mg): 0.6964087023404992
+     Choline, total (mg): 0.426159462259645
+Nuts and seeds
+     Magnesium (mg): 4.244747947743301
+     MUFA 18:1 (g): 4.242339957293173
+     Fatty acids, total monounsaturated (g): 4.167241936845659
+Peanut butter and jelly sandwiches
+     Water (g): 1.2698296741301949
+     Carbohydrate (g): 1.1575192444376148
+     Magnesium (mg): 1.0942859916541148
+Fruit drinks
+     Energy (kcal): 1.0778374177925805
+     Water (g): 1.065319313972523
+     Protein (g): 1.0406335001576448
+Yeast breads
+     Carbohydrate (g): 1.3746006045196761
+     Fiber, total dietary (g): 1.1943172887587112
+     Water (g): 1.0225349711836926
+Rolls and buns
+     Carbohydrate (g): 1.2774116842780157
+     Water (g): 0.9722928846713123
+     Folic acid (mcg): 0.9682856161006735
+Doughnuts, sweet rolls, pastries
+     SFA 16:0 (g): 1.303563251770805
+     Energy (kcal): 1.2528018540871224
+     Water (g): 1.2480518668693756
+Bagels and English muffins
+     Carbohydrate (g): 1.3077247033381068
+     Fiber, total dietary (g): 0.9613123724259182
+     Water (g): 0.8133258406718133
+Turnovers and other grain-based items
+     SFA 18:0 (g): 0.5514032142881092
+     SFA 16:0 (g): 0.5367725492977576
+     Fatty acids, total saturated (g): 0.467223598378905
+Crackers, excludes saltines
+     Carbohydrate (g): 2.242507203882591
+     Water (g): 2.1095378461806695
+     Energy (kcal): 1.7521410362979135
+Cookies and brownies
+     Carbohydrate (g): 2.2752476541266016
+     Sugars, total (g): 2.1412601553833945
+     Water (g): 2.0157238730186005
+Biscuits, muffins, quick breads
+     Carbohydrate (g): 1.1186823315494994
+     Water (g): 0.9907102524134976
+     Energy (kcal): 0.841220127133398
+Tortillas
+     Fiber, total dietary (g): 1.5129904333015887
+     Carbohydrate (g): 1.3186437667539117
+     Water (g): 1.1518565073189204
+Pancakes, waffles, French toast
+     Phosphorus (mg): 1.0826525968856489
+     Vitamin B-12, added (mcg): 0.9092074421405911
+     Carbohydrate (g): 0.7831564027639089
+Cereal bars
+     Carbohydrate (g): 2.1971322477327067
+     Sugars, total (g): 2.014628712940102
+     Water (g): 1.9401803748438513
+Nutrition bars
+     Vitamin B-12, added (mcg): 7.786235107675566
+     Vitamin B-6 (mg): 4.2727516454503816
+     Magnesium (mg): 3.680695839450913
+Baby food: snacks and sweets
+     Vitamin B-6 (mg): 3.5212357167176074
+     Iron (mg): 3.073607307048068
+     Calcium (mg): 2.925247685776251
+Saltine crackers
+     Carbohydrate (g): 2.5372844496273426
+     Water (g): 2.0553547977579796
+     Sodium (mg): 1.71045767534713
+Pretzels/snack mix
+     Carbohydrate (g): 2.3600111768628094
+     Water (g): 1.8778431176580452
+     Sodium (mg): 1.4064671168067069
+Potato chips
+     Potassium (mg): 4.223975099790205
+     PUFA 18:2 (g): 2.4306991295384694
+     Water (g): 2.19703296476927
+Popcorn
+     Fiber, total dietary (g): 3.366749617288337
+     Water (g): 2.1637666284439225
+     Energy (kcal): 2.033531511560026
+Pasta, noodles, cooked grains
+     Potassium (mg): 0.6748085707175647
+     Total Fat (g): 0.6422683509613497
+     SFA 16:0 (g): 0.6234093047559643
+Grits and other cooked cereals
+     Energy (kcal): 0.8895603239623044
+     Water (g): 0.8794217204614341
+     Potassium (mg): 0.8736835202557639
+Oatmeal
+     Energy (kcal): 0.7203589386492965
+     Sodium (mg): 0.6941240324749537
+     Water (g): 0.6822763553350402
+Rice
+     Protein (g): 0.7221951526251089
+     Potassium (mg): 0.6732103057941172
+     SFA 16:0 (g): 0.6555042322658348
+Ready-to-eat cereal, higher sugar (>21.2g/100g)
+     Iron (mg): 3.216172569962627
+     Vitamin D (D2 + D3) (mcg): 2.9068536433130734
+     Folic acid (mcg): 2.836427261175829
+Ready-to-eat cereal, lower sugar (=<21.2g/100g)
+     Iron (mg): 7.896170232248125
+     Folic acid (mcg): 3.9945882812762563
+     Folate, DFE (mcg_DFE): 3.433874092080957
+Baby food: cereals
+     Iron (mg): 8.066660619383205
+     Calcium (mg): 3.29103470621442
+     Vitamin D (D2 + D3) (mcg): 2.2335054201350695
+Other Mexican mixed dishes
+     Sugars, total (g): 0.45750166959702
+     Calcium (mg): 0.42911097666421183
+     Phosphorus (mg): 0.3941898892184468
+Nachos
+     PUFA 18:2 (g): 0.655326215418276
+     Fatty acids, total polyunsaturated (g): 0.6007873613790076
+     Sugars, total (g): 0.5327274907873676
+Egg rolls, dumplings, sushi
+     MUFA 20:1 (g): 0.6516359559292967
+     Vitamin D (D2 + D3) (mcg): 0.4241257706801879
+     Fatty acids, total saturated (g): 0.3882887433938401
+Pasta mixed dishes, excludes macaroni and cheese
+     Lycopene (mcg): 1.48353211295106
+     Sugars, total (g): 0.4332165692762275
+     Potassium (mg): 0.34875598807554914
+Macaroni and cheese
+     Potassium (mg): 0.5825278825588958
+     SFA 6:0 (g): 0.4072308017053694
+     Sugars, total (g): 0.37511935334678176
+Citrus fruits
+     Cryptoxanthin, beta (mcg): 5.413523962570859
+     Vitamin C (mg): 1.8898553168819938
+     Energy (kcal): 1.0787098085530495
+Jams, syrups, toppings
+     Sugars, total (g): 3.2007039136552207
+     Carbohydrate (g): 1.7350467336708884
+     Protein (g): 0.8927754389269638
+Citrus juice
+     Vitamin C (mg): 2.2799553922935245
+     Cryptoxanthin, beta (mcg): 1.0720354475798968
+     Energy (kcal): 1.0359700812461108
+Other fruit juice
+     Energy (kcal): 1.0758964048296646
+     Water (g): 1.0715064507600034
+     Protein (g): 1.0127382860367244
+Dried fruits
+     Sugars, total (g): 4.448296729993411
+     Cryptoxanthin, beta (mcg): 4.108447308379907
+     Carbohydrate (g): 2.52613263754766
+Other fruits and fruit salads
+     Vitamin C (mg): 1.116065994341999
+     Cryptoxanthin, beta (mcg): 1.0735439600552992
+     Protein (g): 0.9043873705242846
+Apples
+     Protein (g): 1.0010213870729718
+     Sodium (mg): 0.9415679572341603
+     Phosphorus (mg): 0.9214386729973675
+Other vegetables and combinations
+     Water (g): 1.0905910547517188
+     Energy (kcal): 1.0767579239246288
+     Vitamin C (mg): 1.011680299265303
+Bananas
+     Sugars, total (g): 1.1072335014844246
+     Sodium (mg): 0.9850011853062423
+     Protein (g): 0.9493863974825958
+Melons
+     Water (g): 1.1569033584165123
+     Energy (kcal): 1.1536655025730642
+     Lycopene (mcg): 0.9870681123578096
+Grapes
+     Sodium (mg): 0.9745339110229597
+     Protein (g): 0.9337799866570885
+     Phosphorus (mg): 0.8322144845511004
+Mango and papaya
+     Cryptoxanthin, beta (mcg): 4.4732225765763545
+     Vitamin C (mg): 2.083378472876515
+     Energy (kcal): 1.004822459864511
+Peaches and nectarines
+     Cryptoxanthin, beta (mcg): 2.3693362457145084
+     Energy (kcal): 1.0728258916852471
+     Water (g): 1.058884399514589
+Pears
+     Energy (kcal): 1.03708862642725
+     Protein (g): 1.012197855440337
+     Water (g): 0.9906402628181628
+Pineapple
+     Vitamin C (mg): 1.4009324048294718
+     Energy (kcal): 0.9978080758291329
+     Protein (g): 0.9941810852383727
+Blueberries and other berries
+     Sodium (mg): 0.9873059423683063
+     Protein (g): 0.9398363244137602
+     Energy (kcal): 0.936351696274629
+Strawberries
+     Vitamin C (mg): 2.4495874119171885
+     Energy (kcal): 1.016138555671476
+     Sodium (mg): 0.9837126999426309
+Gelatins, ices, sorbets
+     Protein (g): 0.9743979711169265
+     Potassium (mg): 0.930657862026315
+     Energy (kcal): 0.9197957719865092
+Apple juice
+     Vitamin C (mg): 1.1195624646913949
+     Water (g): 1.0666715325889071
+     Energy (kcal): 1.0652211522874915
+Baby food: fruit
+     Vitamin C (mg): 1.4361535718514058
+     Sodium (mg): 0.9862080296048179
+     Protein (g): 0.9671762136694797
+Baby juice
+     Vitamin C (mg): 1.7940514998292525
+     Energy (kcal): 1.0552866991617627
+     Protein (g): 1.0440483103425922
+White potatoes, baked or boiled
+     Potassium (mg): 0.9951980283082172
+     Protein (g): 0.7460029329332292
+     Energy (kcal): 0.5529774710130665
+Mashed potatoes and white potato mixtures
+     Protein (g): 0.6671321454551992
+     Water (g): 0.5445950975647935
+     Energy (kcal): 0.5202081948708742
+French fries and other fried white potatoes
+     Potassium (mg): 0.8901551212606923
+     Protein (g): 0.6348816570072933
+     MUFA 20:1 (g): 0.5453757545805469
+Other starchy vegetables
+     Fiber, total dietary (g): 0.9927006614885238
+     Lutein + zeaxanthin (mcg): 0.9009196584432718
+     Energy (kcal): 0.5905374961502035
+Fried vegetables
+     Carotene, beta (mcg): 2.117056184247495
+     Vitamin A, RAE (mcg_RAE): 0.6566667411373756
+     Protein (g): 0.6451609525749419
+Broccoli
+     Vitamin C (mg): 3.0719660928110124
+     Vitamin K (phylloquinone) (mcg): 1.6432938826942942
+     Water (g): 1.0934127359013377
+Lettuce and lettuce salads
+     Carotene, beta (mcg): 2.876100527334934
+     Lutein + zeaxanthin (mcg): 2.0141378495837814
+     Vitamin K (phylloquinone) (mcg): 1.373133249438602
+Spinach
+     Lutein + zeaxanthin (mcg): 10.319475637706203
+     Vitamin K (phylloquinone) (mcg): 8.096055864270436
+     Carotene, beta (mcg): 5.353251752567594
+Carrots
+     Carotene, alpha (mcg): 11.37205533453845
+     Carotene, beta (mcg): 7.179723388687786
+     Vitamin A, RAE (mcg_RAE): 3.430410773116363
+Vegetable juice
+     Lycopene (mcg): 3.517050444716313
+     Carotene, alpha (mcg): 2.653800476632139
+     Carotene, beta (mcg): 1.7297928675601022
+Other red and orange vegetables
+     Carotene, beta (mcg): 5.469044770755056
+     Carotene, alpha (mcg): 2.4273887214418943
+     Vitamin A, RAE (mcg_RAE): 2.2140338864611615
+Tomatoes
+     Lycopene (mcg): 7.760531764854968
+     Potassium (mg): 2.765736873765494
+     Energy (kcal): 0.8600170224003008
+Olives, pickles, pickled vegetables
+     Sodium (mg): 1.6754347949182749
+     Energy (kcal): 0.9394748242887646
+     Protein (g): 0.9248739131852715
+Tomato-based condiments
+     Lycopene (mcg): 5.255148485663152
+     Sodium (mg): 1.4014032001497332
+     Energy (kcal): 0.8978423320438143
+String beans
+     Water (g): 1.1269442685843227
+     Energy (kcal): 1.0659887384522855
+     Protein (g): 0.86427577766372
+Cabbage
+     Vitamin C (mg): 2.126241196891189
+     Water (g): 1.1713614571729507
+     Energy (kcal): 1.1214810799550865
+Corn
+     Cryptoxanthin, beta (mcg): 1.3670215470473872
+     Energy (kcal): 0.7628307160638282
+     Protein (g): 0.7285818428690877
+Onions
+     Energy (kcal): 1.006195393972551
+     Water (g): 1.0046775957046576
+     Vitamin K (phylloquinone) (mcg): 0.93313189108999
+Baby food: vegetables
+     Carotene, beta (mcg): 2.021540561626049
+     Carotene, alpha (mcg): 1.7852543345700673
+     Energy (kcal): 1.128443853354603
+Margarine
+     Vitamin B-6 (mg): 4.860370696312196
+     PUFA 18:2 (g): 4.680740124077146
+     Fatty acids, total polyunsaturated (g): 4.626656087840577
+Mayonnaise
+     Fatty acids, total polyunsaturated (g): 3.2538243417291484
+     PUFA 18:2 (g): 3.207006396855051
+     PUFA 18:3 (g): 1.838850511131449
+Salad dressings and vegetable oils
+     Fatty acids, total polyunsaturated (g): 3.8986780607079243
+     PUFA 18:2 (g): 3.6851719144379236
+     Total Fat (g): 3.0351374117378462
+Vegetables on a sandwich
+     Vitamin C (mg): 1.1872103416754718
+     Water (g): 1.1667826100276104
+     Energy (kcal): 1.1010021792683593
+Sugars and honey
+     Sugars, total (g): 6.785362692298634
+     Carbohydrate (g): 3.3290704323767577
+     Water (g): 1.9594466313046632
+Sugar substitutes
+     Sugars, total (g): 2.981957364394645
+     Carbohydrate (g): 2.258110574974186
+     Water (g): 1.1022489036211982
+Candy not containing chocolate
+     Sugars, total (g): 3.8449789953901323
+     Carbohydrate (g): 3.171093387626271
+     Water (g): 2.0980024396825203
+Candy containing chocolate
+     Theobromine (mg): 5.056396623021548
+     SFA 18:0 (g): 4.8453643863825935
+     Sugars, total (g): 3.5171720398151716
+Coffee
+     Water (g): 1.2241245311025355
+     Energy (kcal): 1.169783678880572
+     Sodium (mg): 0.9415483703070863
+Tea
+     Water (g): 1.4083000782989072
+     Energy (kcal): 1.3233669788723748
+     Protein (g): 1.0478052815701207
+Soft drinks
+     Water (g): 1.1086728469223752
+     Energy (kcal): 1.1030314226910303
+     Protein (g): 1.0513455747059148
+Diet soft drinks
+     Water (g): 1.506223520835199
+     Energy (kcal): 1.3921265409597554
+     Protein (g): 1.0379617540464114
+Flavored or carbonated water
+     Water (g): 1.4037705346294598
+     Energy (kcal): 1.3232754950706767
+     Protein (g): 1.0477166309813524
+Other diet drinks
+     Water (g): 1.458460882547863
+     Energy (kcal): 1.3686536055813538
+     Protein (g): 1.0502695323271432
+Beer
+     Alcohol (g): 2.1411423499963913
+     Water (g): 1.1976408625344501
+     Energy (kcal): 1.0746836878134716
+Liquor and cocktails
+     Alcohol (g): 7.211716662416733
+     Protein (g): 1.0357053180187843
+     Phosphorus (mg): 0.9709299291797354
+Wine
+     Alcohol (g): 4.557536308815036
+     Protein (g): 1.031517692247391
+     Sodium (mg): 0.9730673252614234
+Tap water
+     Water (g): 1.5125834093272401
+     Energy (kcal): 1.396855653468168
+     Protein (g): 1.0497100774425594
+Bottled water
+     Water (g): 1.5145702189223516
+     Energy (kcal): 1.3965984056498497
+     Protein (g): 1.0495167606695497
+Enhanced water
+     Vitamin B-12, added (mcg): 1.492807720077664
+     Water (g): 1.394951282858017
+     Energy (kcal): 1.3197400657843261
+Baby water
+     Water (g): 1.511549725488151
+     Energy (kcal): 1.3965984056498497
+     Protein (g): 1.0495167606695497
+Nutritional beverages
+     Vitamin E, added (mg): 1.29881878747739
+     Vitamin B-12, added (mcg): 1.2975006475807527
+     Vitamin C (mg): 0.8188822938270248
+Protein and nutritional powders
+     Vitamin E, added (mg): 9.769243636169476
+     Vitamin B-12, added (mcg): 6.369570826234908
+     Magnesium (mg): 6.232049214535379
+Sport and energy drinks
+     Vitamin B-12, added (mcg): 3.185514409914445
+     Vitamin B-6 (mg): 2.3532844076575214
+     Water (g): 1.1785522807112911
+Diet sport and energy drinks
+     Vitamin B-12, added (mcg): 3.545216125735521
+     Vitamin B-6 (mg): 1.9391753756317085
+     Water (g): 1.4589407285600229
