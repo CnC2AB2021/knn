@@ -54,7 +54,7 @@ readline.once('close', () => {
         (v[3] === cate ? same : diff)[a - 4][1]++;
       }
     }
-    return [cate, diff.map((v, i) => [v[0] / v[1], same[i][0] / same[i][1], i])];
+    return [cate, diff.map((v, i) => [Math.abs(v[0] / v[1]), Math.abs(same[i][0] / same[i][1]), i])];
   });
 
   // fs.writeFileSync('./out.json', JSON.stringify(output));
